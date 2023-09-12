@@ -70,4 +70,4 @@ Cisco Router, Cisco L3 Switch, DL360 Server, Rocky Linux, KVM, VyOS, Nginx, Mari
 2. Ovirt를 이용해 가상화 관리 플랫폼 구축
 3. PXE, Kickstart를 활용해 간결한 가상머신 생성
 
-🔗 [**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/02.%20KVM%20%EA%B0%80%EC%83%81%ED%99%94%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC)
+🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/02.%20KVM%20%EA%B0%80%EC%83%81%ED%99%94%20%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC)
