@@ -30,7 +30,7 @@
 5. 이중화 구조 디자인 및 서비스 장애 방지
 6. 인증되지 않은 장비 제어
 
-🔗 프로젝트 상세 설명 참고
+🔗 [**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/01.%203-Tier%20Network%20%EB%B0%8F%20Zabbix%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95)
 
 - - -
 
