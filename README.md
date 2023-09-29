@@ -71,3 +71,50 @@ Cisco Router, Cisco L3 Switch, DL360 Server, Rocky Linux, KVM, VyOS, Nginx, Mari
 3. PXE, Kickstart를 활용해 간결한 가상머신 생성
 
 🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/02.%20KVM_%EA%B0%80%EC%83%81%ED%99%94_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EA%B4%80%EB%A6%AC)
+
+
+(3) VPN을 활용한 하이브리드 클라우드 구축
+---
+
+![](images/2023-09-29-20-31-57.png)
+
+
+### 👨‍💼 기획 및 구축   
+D조 (김학남, 서희경, 김경태)
+
+### 🔖 분류   
+팀 프로젝트
+
+### 📆 제작 기간   
+2023. ~ 2023.
+
+### ⏰ 진행순서    
+요구 분석 ➡ 토폴로지 설계 ➡ AWS, 온프레미스 구축 ➡ 웹 서비스 테스트 ➡ 하이브리드 클라우드 연동 ➡ 웹 서비스 운영
+
+### 🛠 사용기술 및 장비    
+Rocky Linux, Nginx, MariaDB, PHP, MobaXterm, VMware, FRRouting, Gabia, Cloudflare, AWS, Docker, Docker compose, Kubernetes
+
+### 👨🏻‍💻 핵심 구현 기능
+#### * AWS 인프라 구축
+1. 가용영역 이중화 및 Public/Private Subnet 구분으로 가용성과 보안성 확보
+2. Route 53으로 DNS 서비스를 구축하여 사용자의 접근 편의성 확보
+3. Auto Scaling을 위해 EFS를 활용하여 탄력적인 공유 파일 시스템 구축
+4. RDS를 활용해 관계형 데이터베이스 구축
+5. Loadbalancing을 활용해 부하 분산 및 가용성 확보
+6. Auto Scaling을 활용해 트래픽 급증에 대비한 탄력적인 인프라 구축
+
+
+#### * K8s 인프라 구축
+1. Pod으로 컨테이너 관리
+2. Replicaset으로 Pod의 개수 보장
+3. Deployment로 버전 관리
+4. YAML 파일로 컨테이너 오케스트레이션 및 배포 자동화, 무중단 배포
+
+
+#### * IPsec VPN 구축
+1. AWS와 K8s 환경 간의 VPN 터널링 구축하여 연결
+2. IPsec 설정으로 VPN 보안 강화
+3. Site-to-Site IPsec VPN
+
+
+🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/03.%20VPN_%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C_%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B5%AC%EC%B6%95)
