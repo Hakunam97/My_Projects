@@ -30,7 +30,7 @@
 5. 이중화 구조 디자인 및 서비스 장애 방지
 6. 인증되지 않은 장비 제어
 
-🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/01.%203-Tier%20Network%20%EB%B0%8F%20Zabbix%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95)
+🔗[**1차프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/01.%203-Tier%20Network%20%EB%B0%8F%20Zabbix%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95)
 
 - - -
 
@@ -70,8 +70,9 @@ Cisco Router, Cisco L3 Switch, DL360 Server, Rocky Linux, KVM, VyOS, Nginx, Mari
 2. Ovirt를 이용해 가상화 관리 플랫폼 구축
 3. PXE, Kickstart를 활용해 간결한 가상머신 생성
 
-🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/02.%20KVM_%EA%B0%80%EC%83%81%ED%99%94_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EA%B4%80%EB%A6%AC)
+🔗[**2차프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/02.%20KVM_%EA%B0%80%EC%83%81%ED%99%94_%ED%99%98%EA%B2%BD_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EA%B4%80%EB%A6%AC)
 
+- - -
 
 (3) VPN을 활용한 하이브리드 클라우드 구축
 ---
@@ -117,4 +118,4 @@ Rocky Linux, Nginx, MariaDB, PHP, MobaXterm, VMware, FRRouting, Gabia, Cloudflar
 3. Site-to-Site IPsec VPN
 
 
-🔗[**프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/03.%20VPN_%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C_%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B5%AC%EC%B6%95)
+🔗[**3차프로젝트 상세 설명 참고**](https://github.com/Hakunam97/Projects/tree/main/03.%20VPN_%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C_%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B5%AC%EC%B6%95)
